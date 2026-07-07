@@ -1,26 +1,34 @@
 ## 👋 Hi, I'm Chris
+Embedded Software Engineer focused on STM32 and ARM Cortex-based systems, with a strong interest in low-level programming, real-time systems, and hardware-software integration.
 
-Software Engineer with a background in embedded automotive systems, currently focused on backend and cloud development.
+I enjoy working close to the hardware, debugging at register level, and building reliable firmware for constrained environments. At the same time, I explore backend and web technologies to broaden my perspective as a software engineer.
 
-I enjoy building reliable software systems, designing clean architectures, and understanding how 
-things work under the hood, from low-level debugging to scalable backend services.
+🔧 What I work with
 
-🔧 **What I work with**
-- Java & Spring Boot
-- REST API design and backend services
-- SQL databases (SQLite, PostgreSQL)
-- Cloud fundamentals (AWS)
-- Automated testing & software quality
+Embedded C / C++ on STM32 (ARM Cortex-M)
+FreeRTOS and real-time systems
+Low-level debugging, peripherals & drivers
+Communication protocols (UART, SPI, I2C, CAN)
+Basic electronics and hardware interaction
 
-🚀 **Currently learning & building**
-- Cloud-native applications on AWS
-- Microservices architecture
-- CI/CD pipelines
-- System design and scalability
+💻 Also experienced in
 
-💡 **Background**
-Previously worked in safety-critical automotive software, developing and validating features across multiple ECU systems. This experience shaped my focus on code quality, testing, and reliability.
+Java & Spring Boot (backend development)
+REST API design
+SQL databases (SQLite, PostgreSQL)
+Frontend with React
+Cloud fundamentals (AWS)
 
-📫 **Let's connect**
-- LinkedIn: www.linkedin.com/in/christian-flmo
+🚀 Currently learning & building
 
+Advanced embedded systems & driver development
+RTOS internals and real-time design patterns
+Embedded + cloud integration (IoT-oriented systems)
+CI/CD and testing for embedded software
+
+💡 Background
+Experience in automotive software within safety-critical environments, working with ECU systems, testing, and validation. This shaped a strong focus on reliability, debugging, and software quality.
+
+📫 Let's connect
+
+LinkedIn: www.linkedin.com/in/christian-flmo
